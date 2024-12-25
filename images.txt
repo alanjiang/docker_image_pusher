@@ -1,4 +1,5 @@
 # kafka image 
+mysql:5.7
 apache/kafka:3.7.1
 #nginx
 #支持私库
