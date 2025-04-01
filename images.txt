@@ -1,5 +1,5 @@
 # kafka image 
-dpage/pgadmin4
+dpage/pgadmin4:9.1
 mysql:5.7
 apache/kafka:3.7.1
 #nginx
