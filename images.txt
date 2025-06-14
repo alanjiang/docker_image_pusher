@@ -1,5 +1,5 @@
 # openresty download 2025/06/14
-openresty:alpine
+openresty/openresty:alpine
 #alpine image
 alpine:latest
 # kafka image 
