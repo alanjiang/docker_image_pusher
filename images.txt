@@ -1,3 +1,5 @@
+# openresty
+openresty:alpine
 #alpine image
 alpine:latest
 # kafka image 
