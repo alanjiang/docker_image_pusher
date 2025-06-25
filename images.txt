@@ -1,3 +1,7 @@
+#mcaptcha 
+mcaptcha/mcaptcha:latest
+postgres:13.2
+mcaptcha/cache:latest
 # openresty download 2025/06/14
 openresty/openresty:alpine
 #alpine image
