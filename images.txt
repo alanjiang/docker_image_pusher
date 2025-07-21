@@ -1,11 +1,13 @@
+#phpadmin
+phpmyadmin
 #mcaptcha 
-mcaptcha/mcaptcha:latest
-postgres:13.2
-mcaptcha/cache:latest
+#mcaptcha/mcaptcha:latest
+#postgres:13.2
+#mcaptcha/cache:latest
 # openresty download 2025/06/14
 openresty/openresty:alpine
 #alpine image
-alpine:latest
+#alpine:latest
 # kafka image 
 confluentinc/cp-kafka-connect:7.2.1
 confluentinc/cp-schema-registry:7.2.1
