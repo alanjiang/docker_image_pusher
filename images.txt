@@ -1,3 +1,5 @@
+#java
+java:8
 #phpadmin
 phpmyadmin
 #mcaptcha 
