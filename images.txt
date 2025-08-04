@@ -1,25 +1,26 @@
+
 #nginx update
-nginx:1.24.0
+nginx:alpine
 #java
-openjdk:8-jdk-alpine
+#openjdk:8-jdk-alpine
 #phpadmin
-phpmyadmin
+#phpmyadmin
 #mcaptcha 
 #mcaptcha/mcaptcha:latest
 #postgres:13.2
 #mcaptcha/cache:latest
 # openresty download 2025/06/14
-openresty/openresty:alpine
+#openresty/openresty:alpine
 #alpine image
 #alpine:latest
 # kafka image 
-confluentinc/cp-kafka-connect:7.2.1
-confluentinc/cp-schema-registry:7.2.1
-confluentinc/cp-kafka:7.2.1
-provectuslabs/kafka-ui:latest
-dpage/pgadmin4:9.1
-mysql:5.7
-apache/kafka:3.7.1
+#confluentinc/cp-kafka-connect:7.2.1
+#confluentinc/cp-schema-registry:7.2.1
+#confluentinc/cp-kafka:7.2.1
+#provectuslabs/kafka-ui:latest
+#dpage/pgadmin4:9.1
+#mysql:5.7
+#apache/kafka:3.7.1
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
