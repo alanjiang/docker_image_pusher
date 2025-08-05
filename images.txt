@@ -1,4 +1,4 @@
-oraclelinux:8-jdk17
+yumg/jdk:1.8
 #nginx update
 #nginx:1.17
 #java
