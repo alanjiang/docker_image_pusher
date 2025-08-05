@@ -1,6 +1,6 @@
-
+java:8
 #nginx update
-nginx:1.17
+#nginx:1.17
 #java
 #openjdk:8-jdk-alpine
 #phpadmin
