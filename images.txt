@@ -1,4 +1,4 @@
-oracle/java:8
+oraclelinux:8-jdk17
 #nginx update
 #nginx:1.17
 #java
