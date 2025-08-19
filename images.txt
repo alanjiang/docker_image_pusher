@@ -1,4 +1,5 @@
-ghcr.io/open-webui/open-webui:main
+dify/dify
+#ghcr.io/open-webui/open-webui:main
 #ollama/ollama
 #yumg/jdk:1.8
 #nginx update
