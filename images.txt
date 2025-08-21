@@ -1,3 +1,5 @@
+difyai/dify
+
 #langgenius/dify-api:1.7.2
 #langgenius/dify-web:1.7.2
 # postgres:15-alpine
@@ -11,7 +13,7 @@
 #langgenius/qdrant:v1.7.3
 #pgvector/pgvector:pg16
 
-vastdata/vastbase-vector
+#vastdata/vastbase-vector
 
 #tensorchord/pgvecto-rs:pg16-v0.3.0
 #ghcr.io/chroma-core/chroma:0.5.20
