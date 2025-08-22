@@ -1,4 +1,5 @@
-difyai/dify
+nginx:latest
+#difyai/dify
 
 #langgenius/dify-api:1.7.2
 #langgenius/dify-web:1.7.2
