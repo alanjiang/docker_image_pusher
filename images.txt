@@ -1,4 +1,5 @@
-stnsmith/fossflow:latest
+busybox
+#stnsmith/fossflow:latest
 #stnsmith/fossflow:latest
 #mysql:5.7
 #nginx:latest
