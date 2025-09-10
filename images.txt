@@ -1,4 +1,6 @@
-busybox
+fradelg/mysql-cron-backup
+mariadb
+#busybox
 #stnsmith/fossflow:latest
 #stnsmith/fossflow:latest
 #mysql:5.7
