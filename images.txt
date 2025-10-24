@@ -1,4 +1,6 @@
-jaegertracing/all-in-one
+prom/prometheus:latest
+grafana/grafana:latest
+#jaegertracing/all-in-one
 #fradelg/mysql-cron-backup
 #mariadb
 #busybox
