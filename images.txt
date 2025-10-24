@@ -1,5 +1,6 @@
-fradelg/mysql-cron-backup
-mariadb
+jaegertracing/all-in-one
+#fradelg/mysql-cron-backup
+#mariadb
 #busybox
 #stnsmith/fossflow:latest
 #stnsmith/fossflow:latest
