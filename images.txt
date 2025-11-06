@@ -1,4 +1,7 @@
-dynatrace/oneagent
+#
+dynatrace/dynatrace-activegate
+
+#dynatrace/oneagent
 #
 #prom/prometheus:latest
 #grafana/grafana:latest
