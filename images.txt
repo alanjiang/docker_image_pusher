@@ -1,6 +1,7 @@
+dynatrace/oneagent
 #
-prom/prometheus:latest
-grafana/grafana:latest
+#prom/prometheus:latest
+#grafana/grafana:latest
 #jaegertracing/all-in-one
 #fradelg/mysql-cron-backup
 #mariadb
