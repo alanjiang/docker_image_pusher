@@ -1,6 +1,5 @@
 #
-dynatrace/dynatrace-activegate:sha256-be3c55bd76faf950db5b3dc36b671f2764acce1c0696e00c834485f1e1f1382c.sig
-
+dynatrace/dynatrace-activegate
 #dynatrace/oneagent
 #
 #prom/prometheus:latest
