@@ -1,5 +1,5 @@
-#
-dynatrace/dynatrace-activegate
+openjdk:17-jdk-alpine
+#dynatrace/dynatrace-activegate
 #dynatrace/oneagent
 #
 #prom/prometheus:latest
@@ -52,7 +52,7 @@ dynatrace/dynatrace-activegate
 #nginx update
 #nginx:1.17
 #java
-#openjdk:8-jdk-alpine
+
 #phpadmin
 #phpmyadmin
 #mcaptcha 
