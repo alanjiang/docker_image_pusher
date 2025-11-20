@@ -1,4 +1,4 @@
-eclipse-temurin:17-jdk-alpine
+amazoncorretto:17-alpine
 #dynatrace/dynatrace-activegate
 #dynatrace/oneagent
 #
