@@ -1,3 +1,5 @@
+phpmyadmin/phpmyadmin:latest
+
 amazoncorretto:17-alpine
 #dynatrace/dynatrace-activegate
 #dynatrace/oneagent
