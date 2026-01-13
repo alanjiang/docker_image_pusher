@@ -1,4 +1,5 @@
-phpmyadmin/phpmyadmin:latest
+foxcpp/maddy:latest
+#phpmyadmin/phpmyadmin:latest
 #amazoncorretto:17-alpine
 #dynatrace/dynatrace-activegate
 #dynatrace/oneagent
