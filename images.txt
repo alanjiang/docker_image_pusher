@@ -1,4 +1,6 @@
-foxcpp/maddy:latest
+
+nsqio/nsq:latest
+#foxcpp/maddy:latest
 #phpmyadmin/phpmyadmin:latest
 #amazoncorretto:17-alpine
 #dynatrace/dynatrace-activegate
