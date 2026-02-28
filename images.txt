@@ -1,5 +1,5 @@
-
-nsqio/nsq:latest
+nacos/nacos-server:v2.3.2
+#nsqio/nsq:latest
 #foxcpp/maddy:latest
 #phpmyadmin/phpmyadmin:latest
 #amazoncorretto:17-alpine
