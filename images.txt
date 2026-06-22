@@ -1,5 +1,5 @@
-
-openjdk:17-jdk-slim
+eclipse-temurin:17-jdk-slim
+#openjdk:17-jdk-slim
 #nacos/nacos-server:v2.3.2
 #nsqio/nsq:latest
 #foxcpp/maddy:latest
