@@ -1,5 +1,6 @@
-
-registry.redhat.io/amq-streams/strimzi-kafka-39-rhel9:2.9.1
+# kafka 3.9.0 
+quay.io/strimzi/kafka@sha256:50d6b41639435813d6e5458d100c619c91d8345f7868f7cd86330d2a0817922b
+#registry.redhat.io/amq-streams/strimzi-kafka-39-rhel9:2.9.1
 #alpine/java:17-jdk
 #openjdk:17-jdk-slim
 #nacos/nacos-server:v2.3.2
