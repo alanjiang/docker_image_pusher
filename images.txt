@@ -1,5 +1,5 @@
 
-egistry.redhat.io/amq-streams/strimzi-kafka-39-rhel9:2.9.1
+registry.redhat.io/amq-streams/strimzi-kafka-39-rhel9:2.9.1
 #alpine/java:17-jdk
 #openjdk:17-jdk-slim
 #nacos/nacos-server:v2.3.2
